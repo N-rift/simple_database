@@ -44,6 +44,14 @@ simple_database/
 
 ![Project Demo](demo.gif)
 
+## Live Demo
+
+Try the project online using GitHub Pages:
+
+This demo showcases the user interface, record creation, and status toggle functionality directly in the browser.
+
+The repository also includes the full PHP and MySQL implementation required for the assignment.
+
 ## Learning Objectives
 
 This project was created to practice:

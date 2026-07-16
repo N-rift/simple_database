@@ -58,5 +58,3 @@ This project was created to practice:
 ## Author
 
 **V**
-
-Smart Methods Training – Week 2
